@@ -1,7 +1,5 @@
 <div align="center">
  <img src="images/225695060.png" width = 500 style="border-radius: 50%" />
-  <h1>Hi, I'm <strong>rainforest 🌿</strong></h1>
-  <h3>AI Engineer | tennis lover 국화부(지망생) 🎾</h3>
 </div>
 
 🌳 **Tech Stack**
@@ -14,5 +12,5 @@
 🌳 **Let's Connect**
 
 - 🌿 Email: [yiurimone@gmail.com](yiurimone@gmail.com)  
-- 🌿 Notion: WoorimShin-portfolio [https://spotted-beard-c11.notion.site/Woorim-Shin-232b3a32364e80179d32ce24e439487f?source=copy_link)]
+- 🌿 Notion: [WoorimShin-portfolio] (https://spotted-beard-c11.notion.site/Woorim-Shin-232b3a32364e80179d32ce24e439487f?source=copy_link)
   

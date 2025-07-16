@@ -1,5 +1,5 @@
 <div align="center">
- <img src="images/225695060.png" width = 500 style="border-radius: 50%" />
+ <img src="images/스크린샷 2025-07-17 010839.png" width = 500 style="border-radius: 50%" />
 </div>
 
 🌳 **Tech Stack**

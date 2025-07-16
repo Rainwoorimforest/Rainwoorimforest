@@ -12,5 +12,6 @@
 🌳 **Let's Connect**
 
 - 🌿 Email: [yiurimone@gmail.com](yiurimone@gmail.com)  
-- 🌿 Notion: [WoorimShin-portfolio] (https://spotted-beard-c11.notion.site/Woorim-Shin-232b3a32364e80179d32ce24e439487f?source=copy_link)
+- 🌿 Notion: [WoorimShin-notion](https://spotted-beard-c11.notion.site/Woorim-Shin-232b3a32364e80179d32ce24e439487f?source=copy_link)
+
   

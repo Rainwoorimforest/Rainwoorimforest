@@ -1,5 +1,5 @@
 <div align="center">
- <img src="images/225695060.png" style="border-radius: 50%" />
+ <img src="images/225695060.png" width = 800 style="border-radius: 50%" />
   <h1>Hi, I'm <strong>rainforest 🌿</strong></h1>
   <h3>AI Engineer | tennis lover 국화부(지망생) 🎾</h3>
 </div>

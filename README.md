@@ -6,7 +6,7 @@
 
 <br />
 
-# 👋 Intro
+# **👋 Intro**
 
 > **"왜(WHY)?"라는 질문을 멈추지 않고, 문제의 본질을 파고드는 개발자 신우림입니다.**
 > 
@@ -17,7 +17,7 @@
 
 <br />
 
-# 📝 Projects
+# **📝 Projects**
 
 저를 상징하는 3가지 핵심 키워드입니다.
 
@@ -64,9 +64,7 @@
 - **Link**: [Pictory 상세 보기](https://github.com/Prometheus-14team/Pictory)
 ---
 
-🌳 **Tech Stack**
-
-## 🌳 Tech Stack
+## 🌳 **Tech Stack**
 
 ### 🔧 Proficient  
 
@@ -83,7 +81,7 @@
 
 ---
 
-🌳 **Contact**
+## 🌳 **Contact**
 
 - 🌿 Email: [yiurimone@gmail.com](yiurimone@gmail.com)  
 - 🌿 Notion: [WoorimShin-notion](https://spotted-beard-c11.notion.site/Woorim-Shin-232b3a32364e80179d32ce24e439487f?source=copy_link)

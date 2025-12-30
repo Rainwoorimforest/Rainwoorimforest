@@ -1,7 +1,7 @@
 # 🌳 신우림 (Shin Woorim) 포트폴리오
-_ **Driven by "WHY," Guided by Logic.**___
-![MyGitHub](https://github.com/user-attachments/assets/01c557a9-7ca9-4043-8646-ace66792b519)
 
+![MyGitHub](https://github.com/user-attachments/assets/01c557a9-7ca9-4043-8646-ace66792b519)
+_Driven by "WHY," Guided by Logic._
 <br />
 
 # **👋 Intro**

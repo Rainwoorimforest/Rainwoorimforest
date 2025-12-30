@@ -1,8 +1,7 @@
+# 🌳 신우림 (Shin Wu-rim) 포트폴리오
 <div align="center">
  <img src="images/스크린샷 2025-07-17 010839.png" width = 1000 style="border-radius: 50%" />
 </div>
-
-# 🌳 신우림 (Shin Wu-rim) 포트폴리오
 
 <br />
 

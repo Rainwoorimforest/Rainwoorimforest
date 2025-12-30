@@ -1,5 +1,5 @@
-# 🌳 신우림 (Shin Woorim) 포트폴리오
-![MyGitHub](https://github.com/user-attachments/assets/f9df7fbe-d7b4-4230-a28f-2ff9d3c5741a)
+# 🌳 신우림 (Shin Woorim) 포트폴리오: Driven by "WHY," Guided by Logic.
+![MyGitHub](https://github.com/user-attachments/assets/01c557a9-7ca9-4043-8646-ace66792b519)
 
 <br />
 

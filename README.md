@@ -36,7 +36,7 @@ _Driven by "WHY," Guided by Logic._
 - **Tech Stack**: 
   - **Language**: Python
   - **Model**: Qwenvl2.5-7B
-  - **Skills**: LoRA Fine-tuning, LangChain, FastAPI
+  - **Skills**: LoRA Fine-tuning, LangChain, FastAPI, Pytorch
 - **Link**: [Saeroian-AI 상세 보기](https://github.com/Saeroi-an/AI)
 
 <br />
@@ -49,8 +49,8 @@ _Driven by "WHY," Guided by Logic._
 - **핵심 역할**: 방대한 비정형 리뷰에서 사용자 맞춤형 추천 알고리즘 구축
 - **Tech Stack**: 
   - **Language**: Python
-  - **Skills**: Hybrid Retrieval(BM25+Dense), Cross-Encoder, PyTorch, Crawling, OpenAI API
-- **Link**: [Warchiving 상세 보기](https://github.com/Warchiving/Warchiving-release)
+  - **Skills**: Hybrid Retrieval(BM25+Dense), Cross-Encoder, Pytorch, Crawling, OpenAI API
+- **Link**: [Warchiving 상세 보기](https://github.com/Warchiving/Warchiving-AI)
 
 <br />
 

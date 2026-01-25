@@ -1,6 +1,5 @@
-# 🌳 신우림 (Shin Woorim) 포트폴리오
+# 🌳 신우림 (Shin Woorim) 
 
-<br />
 
 # **👋 Intro**
 

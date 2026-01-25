@@ -1,10 +1,5 @@
 # 🌳 신우림 (Shin Woorim) 포트폴리오
 
-![MyGitHub](https://github.com/user-attachments/assets/90c3675e-00ee-476d-999d-3fc9f39662a9)
-
-
-
-_Driven by "WHY," Guided by Logic._
 <br />
 
 # **👋 Intro**
@@ -79,6 +74,13 @@ _Driven by "WHY," Guided by Logic._
 
 ![Flask API](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+![MyGitHub](https://github.com/user-attachments/assets/90c3675e-00ee-476d-999d-3fc9f39662a9)
+
+
+
+_Driven by "WHY," Guided by Logic._
+
 
 ---
 

@@ -35,7 +35,7 @@ _Driven by "WHY," Guided by Logic._
 - **핵심 역할**: 팀장, AI 전체 파이프라인 설계, 의료 도메인 맞춤 LoRA 파인튜닝, 한글 OCR 정확도 개선
 - **Tech Stack**: 
   - **Language**: Python
-  - **Model**: Qwen2-VL-7B
+  - **Model**: Qwenvl2.5-7B
   - **Skills**: LoRA Fine-tuning, LangChain, FastAPI
 - **Link**: [Saeroian-AI 상세 보기](https://github.com/Saeroi-an/AI)
 
@@ -46,10 +46,10 @@ _Driven by "WHY," Guided by Logic._
 
 - **개발 기간**: 2024.08 ~ 2024.11
 - **성과**: **NIA 주관 공모전 장려상 수상**
-- **핵심 역할**: 방대한 비정형 리뷰 데이터 전처리 및 사용자 맞춤형 추천 알고리즘 구축
+- **핵심 역할**: 방대한 비정형 리뷰에서 사용자 맞춤형 추천 알고리즘 구축
 - **Tech Stack**: 
   - **Language**: Python
-  - **Skills**: Content-based Filtering, Attention-based Recommendation, PyTorch, Crawling, OpenAI API
+  - **Skills**: Hybrid Retrieval(BM25+Dense), Cross-Encoder, PyTorch, Crawling, OpenAI API
 - **Link**: [Warchiving 상세 보기](https://github.com/Warchiving/Warchiving-release)
 
 <br />
